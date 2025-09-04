@@ -1,0 +1,10 @@
+@import './base.css';
+@import "tailwindcss";
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+* {
+  font-family: inherit;
+}
